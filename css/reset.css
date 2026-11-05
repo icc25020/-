@@ -1,0 +1,27 @@
+html {
+    font-family: "Noto Serif JP",sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #222222;
+}
+
+body,
+h1, h2, h3, h4, h5, h6, p, 
+ul, ol, dl, dt, dd 
+hr, figure {
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-size: 1em;
+    font-weight: 400;
+}
+
+a {
+    color: #222222;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
